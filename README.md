@@ -16,8 +16,8 @@ This presentation is the final task of this capstone project. I will be developi
 
 Thanks!
 Teófilo PERCY Landa
+
 June 2022
 
-
-# Applied-Data-Science-Capstone
+Applied-Data-Science-Capstone
 Coursera/IBM Applied Data Science Capstone - Final Presentation: Winning Space Race with Data Science
