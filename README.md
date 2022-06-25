@@ -1,6 +1,3 @@
-# Applied-Data-Science-Capstone
-Coursera/IBM Applied Data Science Capstone - Final Presentation: Winning Space Race with Data Science
-
 Hello! And welcome to my capstone presentation.  
 
 My name is Teófilo Percy. I am pleased to complete this Data Science Certification with this capstone presentation. I will apply my data science skills as a Data scientist for a private space launch company in this final capstone project.
@@ -18,3 +15,9 @@ I will build, evaluate, and refine predictive models for discovering more exciti
 This presentation is the final task of this capstone project. I will be developing stories of all my analysis.
 
 Thanks!
+Teófilo PERCY Landa
+June 2022
+
+
+# Applied-Data-Science-Capstone
+Coursera/IBM Applied Data Science Capstone - Final Presentation: Winning Space Race with Data Science
