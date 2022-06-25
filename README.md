@@ -15,9 +15,11 @@ I will build, evaluate, and refine predictive models for discovering more exciti
 This presentation is the final task of this capstone project. I will be developing stories of all my analysis.
 
 Thanks!
+
 Teófilo PERCY Landa
 
 June 2022
 
 Applied-Data-Science-Capstone
+
 Coursera/IBM Applied Data Science Capstone - Final Presentation: Winning Space Race with Data Science
