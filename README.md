@@ -18,7 +18,7 @@ Thanks!
 
 Teófilo PERCY Landa
 
-June 2022
+July 2022
 
 Applied-Data-Science-Capstone
 
